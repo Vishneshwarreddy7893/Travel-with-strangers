@@ -6,7 +6,7 @@
 // Base URL for all API calls
 // Change this to your production URL when deploying
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://your-production-api-url.com/api' // Replace with your actual production URL
+  ? 'https://travel-with-strangers.onrender.com' // Replace with your actual production URL
   : 'http://localhost:5000/api';
 
 // API endpoints
